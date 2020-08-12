@@ -5,3 +5,6 @@ Seis
 Siete
 Ocho
 Nueve
+
+once
+doce
